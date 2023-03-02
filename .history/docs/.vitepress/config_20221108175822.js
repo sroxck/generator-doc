@@ -21,7 +21,5 @@ export default {
           { text: 'Introduction', link: '/introduction' },
           { text: 'Getting Started', link: '/getting-started' },
         ]
-      }
-    ]
   }
 }
